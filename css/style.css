@@ -1,4 +1,16 @@
-h1{
-    font-size: 40px;
-    color: brown;
+.header, .hero, .body, .footer {
+    background-color: rgb(194, 133, 181);
+    margin-bottom: 10px;
+    padding: 10px 0;
+}
+.box{
+  min-height: 100px;
+  background-color: red;
+  font-size: 30px;
+  color: white;
+  margin-bottom: 10px;
+  
+}
+.green{
+    background-color: green;
 }
